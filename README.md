@@ -295,7 +295,7 @@ A Tableau Story was created to guide an executive audience through the analysis 
 ![Loan Portfolio & Credit Risk](Screenshots/Loan%20Portfolio%20%26%20Credit%20Risk%20Dashboard.png)
 
 ### Executive Insights
-![Executive Insights](Screenshots/Executive%20Insight.png)
+![Executive Insights](Screenshots/Executive%20Insight%20.png)
 
 ### Management Recommendations
 ![Management Recommendations](Screenshots/Management%20recommendations.png)
