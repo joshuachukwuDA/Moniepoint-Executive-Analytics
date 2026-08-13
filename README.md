@@ -283,6 +283,24 @@ The analysis focuses on:
 A Tableau Story was created to guide an executive audience through the analysis from business performance to regional and agent performance, portfolio risk, insights, and final recommendations.
 
 ---
+## 📊 Dashboard Preview
+
+### Business Performance
+![Business Performance](Screenshots/Business%20Performance%20Dashboard.png)
+
+### Agent & Regional Performance
+![Agent & Regional Performance](Screenshots/Agent%20%26%20Regional%20Performance%20Dashboard.png)
+
+### Loan Portfolio & Credit Risk
+![Loan Portfolio & Credit Risk](Screenshots/Loan%20Portfolio%20%26%20Credit%20Risk%20Dashboard.png)
+
+### Executive Insights
+![Executive Insights](Screenshots/Executive%20Insight.png)
+
+### Management Recommendations
+![Management Recommendations](Screenshots/Management%20recommendations.png)
+
+
 
 ## 💡 Key Insights
 
